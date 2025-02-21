@@ -1,7 +1,3 @@
-
-
-
-
 creating_order = {
     "firstName": "Арликин",
     "lastName": "Антонов",
